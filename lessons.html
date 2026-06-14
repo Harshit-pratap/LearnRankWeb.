@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>All Lessons</title>
+  <meta name="description" content="Browse all SEO, AEO, GEO, and AI Search lessons." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>All Lessons</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="lessons.html">Lessons</a> |
+      <a href="glossary.html">Glossary</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="filters">
+      <input id="search-bar" type="text" placeholder="Search lessons..." />
+      <select id="topic-filter">
+        <option value="all">All Topics</option>
+        <option value="SEO">SEO</option>
+        <option value="AEO">AEO</option>
+        <option value="GEO">GEO</option>
+        <option value="AI Search">AI Search</option>
+      </select>
+    </div>
+
+    <div id="lessons-list" class="lessons-grid"></div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 SEO AEO GEO Academy</p>
+  </footer>
+
+  <script src="js/utils.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
