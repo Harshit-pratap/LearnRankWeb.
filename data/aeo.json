@@ -1,0 +1,18 @@
+[
+  {
+    "id": "aeo-basics-1",
+    "slug": "aeo-basics-1",
+    "topic": "AEO",
+    "title": "AEO Basics: What Is AEO?",
+    "description": "Learn Answer Engine Optimization for AI search visibility.",
+    "content": "<p><strong>AEO = Answer Engine Optimization</strong>. Structure content so AI engines (Google AI Overviews, ChatGPT) extract discrete answers.</p><h2>Key AEO tactics?</h2><p>Question-led headings, direct-answer opening paragraphs, FAQ blocks, definition callouts.</p><h2>Why AEO matters?</h2><p>Without AEO structure, even well-optimized content fails the extraction test.</p>"
+  },
+  {
+    "id": "aeo-faq-1",
+    "slug": "aeo-faq-1",
+    "topic": "AEO",
+    "title": "FAQ Structure for AEO",
+    "description": "How to write FAQs that AI engines extract.",
+    "content": "<p>FAQ blocks are critical for AEO. Write question + short direct answer.</p><h2>FAQ format?</h2><p><strong>Q:</strong> What is SEO?<br><strong>A:</strong> SEO is Search Engine Optimization for Google rankings.</p>"
+  }
+]
