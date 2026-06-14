@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai-search-1",
+    "slug": "ai-search-1",
+    "topic": "AI Search",
+    "title": "AI Search Optimization Intro",
+    "description": "How to optimize for AI search engines like Perplexity and ChatGPT.",
+    "content": "<p>AI search = ChatGPT, Perplexity, Gemini, Claude, Grok, Meta AI. Optimize for <strong>mentions</strong>, not just clicks.</p><h2>AI vs Google?</h2><p>Google returns 10+ pages, user clicks 1-3 links. AI synthesizes single answer, names 2-5 brands.</p><h2>CTR collapse?</h2><p>Position-1 CTR collapsed from 25-30% to 2.6% when AI Overviews trigger.</p>"
+  },
+  {
+    "id": "ai-search-trends-1",
+    "slug": "ai-search-trends-1",
+    "topic": "AI Search",
+    "title": "AI Search Trends 2026",
+    "description": "Latest AI search statistics and trends for 2026.",
+    "content": "<p>Gartner predicts 25% traditional search decline by 2026. AI chatbot referral traffic: 1.1 billion visits, 357% year-over-year growth.</p><h2>User behavior?</h2><p>35% of US consumers use AI at product discovery vs 13.6% who use traditional search.</p>"
+  }
+]
