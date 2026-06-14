@@ -1,0 +1,26 @@
+[
+  {
+    "term": "SEO",
+    "definition": "Search Engine Optimization: earning rankings in Google's blue-link results. Success measured in keyword positions, CTR, organic sessions."
+  },
+  {
+    "term": "AEO",
+    "definition": "Answer Engine Optimization: structuring content so AI engines extract discrete passages as answers. Uses question headings, FAQ blocks."
+  },
+  {
+    "term": "GEO",
+    "definition": "Generative Engine Optimization: earning citations inside AI-generated answers from ChatGPT, Claude, Perplexity, Gemini. Measured in mention rate."
+  },
+  {
+    "term": "AI Search",
+    "definition": "Search via AI engines (ChatGPT, Perplexity, Gemini). Synthesizes single answer, names 2-5 brands. Mention = conversion event."
+  },
+  {
+    "term": "Zero-click search",
+    "definition": "Search where user doesn't click any result. AI Overviews trigger, answer displayed on page. Grew from 56% to 69% in 12 months."
+  },
+  {
+    "term": "RAG",
+    "definition": "Retrieval-Augmented Generation: AI pipeline that selects content based on authority, structure, factual density before generating answers."
+  }
+]
