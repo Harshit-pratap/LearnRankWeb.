@@ -1,0 +1,18 @@
+[
+  {
+    "id": "geo-basics-1",
+    "slug": "geo-basics-1",
+    "topic": "GEO",
+    "title": "GEO Basics: What Is GEO?",
+    "description": "Learn Generative Engine Optimization for AI citations.",
+    "content": "<p><strong>GEO = Generative Engine Optimization</strong>. Earn citations inside AI-generated answers from ChatGPT, Claude, Perplexity, Gemini, Grok, Meta AI.</p><h2>Key GEO tactics?</h2><p>Statistics addition (+41% AI citation lift), cite sources (+28%), quotation addition (+28%).</p><h2>Why GEO matters?</h2><p>AI search synthesizes single answers, names 2-5 brands. The mention is the conversion event.</p>"
+  },
+  {
+    "id": "geo-princeton-1",
+    "slug": "geo-princeton-1",
+    "topic": "GEO",
+    "title": "Princeton GEO Study Results",
+    "description": "Peer-reviewed GEO study from Princeton University (ACM KDD 2024).",
+    "content": "<p>Princeton + Georgia Tech + IIT Delhi + Allen Institute tested 9 strategies across 10,000 queries.</p><h2>Top findings?</h2><p>Statistics Addition: +41% AI citation lift. Cite Sources: +28%. Keyword stuffing: -9% (hurts AI visibility).</p>"
+  }
+]
