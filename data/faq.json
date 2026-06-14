@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is SEO?",
+    "answer": "SEO is Search Engine Optimization: earning rankings in Google's blue-link results. Measured in keyword positions, CTR, and organic sessions."
+  },
+  {
+    "question": "What is AEO?",
+    "answer": "AEO is Answer Engine Optimization: structuring content so AI engines extract discrete answers. Uses question headings, FAQ blocks, direct answers."
+  },
+  {
+    "question": "What is GEO?",
+    "answer": "GEO is Generative Engine Optimization: earning citations inside AI-generated answers. Measured in mention rate, share of voice, citation rate."
+  },
+  {
+    "question": "SEO vs AEO vs GEO?",
+    "answer": "SEO = Google rankings. AEO = AI answer extraction. GEO = AI citations. All 3 required for AI search visibility in 2026."
+  },
+  {
+    "question": "Why AI search matters?",
+    "answer": "35% US consumers use AI at product discovery. Zero-click searches grew from 56% to 69%. Position-1 CTR collapsed to 2.6% with AI Overviews."
+  }
+]
